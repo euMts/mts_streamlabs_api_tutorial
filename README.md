@@ -15,6 +15,4 @@ Guide for Streamlabs API using Python<br>
 !ATTENTION!<br>
 THIS PROJECT DOES NOT HAVE PROFITABLE PURPOSES, ALL OF THE DATA CAN BE FOUND IN THE OFFICIAL STREAMLABS DOCS!<br>
 <br>
-I made a youtube playlist explaining how to use the Streamlabs API using python, and im using this repository just to handle the archives.<br>
-link: https://www.youtube.com/playlist?list=PLgq2T1anEfKcuKLndfxRmF9iViL6JDDTg   <br>
-[playlist](https://www.youtube.com/playlist?list=PLgq2T1anEfKcuKLndfxRmF9iViL6JDDTg)
+I made a [youtube playlist](https://www.youtube.com/playlist?list=PLgq2T1anEfKcuKLndfxRmF9iViL6JDDTg) explaining how to use the Streamlabs API using python, and im using this repository just to handle the archives.<br>
