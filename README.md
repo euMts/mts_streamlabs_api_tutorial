@@ -5,8 +5,7 @@ Tutorial para a API do Streamlabs utilizando Python<br>
 !ATENÇÃO!<br>
 ESTE PROJETO NÃO POSSUI NENHUM FIM LUCRATIVO, TODOS OS DADOS UTILIZADOS FORAM TIRADOS DA DOCUMENTAÇÃO ORIGINAL DO STREAMLABS!<br>
 <br>
-Fiz uma playlist no youtube explicando detalhadamente como fazer requisições na API do Streamlabs utilizando Python<br>
-link: https://www.youtube.com/playlist?list=PLgq2T1anEfKcuKLndfxRmF9iViL6JDDTg   <br>
+Fiz uma [playlist no youtube](https://www.youtube.com/playlist?list=PLgq2T1anEfKcuKLndfxRmF9iViL6JDDTg) explicando detalhadamente como fazer requisições na API do Streamlabs utilizando Python<br>
 <br>
 <br>
 EN-US<br>
